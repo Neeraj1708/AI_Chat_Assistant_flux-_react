@@ -91,9 +91,6 @@ Contributions are welcome! 🚀
 
 Neeraj Wariya
 
-    GitHub: https://github.com/Neeraj1708
-
-    LinkedIn: (Add your LinkedIn profile link)
 
 📌 How to Push This README to GitHub
 
