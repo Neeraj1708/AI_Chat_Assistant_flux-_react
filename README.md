@@ -14,7 +14,7 @@ Built with **React.js** and **Vite**, featuring a clean UI, real-time responses,
 ## ✨ Features
 
 - **Generative AI**  
-  Integrated with Google Gemini API (`gemini-1.5-flash`) for fast, context-aware responses.
+  Integrated with Google Gemini API (`gemini-2.5-flash`) for fast, context-aware responses.
 
 - **Smart Error Handling**  
   Gracefully handles API rate limits (HTTP 429) and network errors with user-friendly messages.
