@@ -1,0 +1,29 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+/* lock page scroll; only inner panels scroll */
+body {
+  overflow: hidden;
+}
+
+/* nicer, stable scrollbar just for the chat */
+.answer-area {
+  scrollbar-gutter: stable;
+}
+
+/* tiny visual polish for keyboard hint */
+.kbd {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.2rem;
+  padding: 0 0.3rem;
+  border-radius: 0.375rem;
+  border: 1px solid rgba(148, 163, 184, 0.5);
+  background: rgba(15, 23, 42, 0.9);
+  font-size: 0.65rem;
+}
