@@ -8,7 +8,6 @@ Built with **React.js** and **Vite**, featuring a clean UI, real-time responses,
 ## 🚀 Live Demo
 
 🔗 https://ai-chat-assistant-flux-react.vercel.app  
-*(Update this link if your deployment URL changes)*
 
 ---
 
